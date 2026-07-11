@@ -1,0 +1,44 @@
+name: Data error
+description: A run time, headway, stop, or transfer in the feed doesn't match reality
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This feed models a **typical weekday** with frequency-based trips — it's built
+        for routing, not timetable accuracy, and every deliberate shortcut is listed in
+        [docs/ASSUMPTIONS.md](../blob/main/docs/ASSUMPTIONS.md). Worth a skim first:
+        if what you found is covered there, it's a known trade-off rather than a bug.
+        Everything else, I absolutely want to hear about.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of error?
+      options:
+        - Timing (run times, frequencies)
+        - Stops or stations
+        - Routes or transfers
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Route / stop / station affected
+      placeholder: e.g. service 196 between 03218 and 03211 · NS17 Bishan → CC15 transfer
+    validations:
+      required: true
+  - type: input
+    id: feed-vs-reality
+    attributes:
+      label: What the feed says vs. what's true
+      placeholder: e.g. feed has 4 min, actual scheduled run is ~7 min
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source
+      description: >-
+        How you know — you ride it, an operator timetable, LTA DataMall, a
+        measurement. Links welcome.

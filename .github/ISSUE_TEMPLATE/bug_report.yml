@@ -1,0 +1,16 @@
+name: Build or spec bug
+description: The build fails, tests break, or the output violates the GTFS spec
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Command you ran, what you expected, what you got. Paste errors verbatim.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: e.g. macOS 15, uv 0.7, Python 3.13 — or which release zip you used

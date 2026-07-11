@@ -1,0 +1,34 @@
+Transfer at Bishan from NSL Marina South Pier bound platform to CCL - 2:00
+Transfer at Bishan from NSL Jurong East bound platform to CCL - 3:00
+Transfer at Bishan from CCL to NSL Marina South Pier bound platform - 2:00
+Transfer at Bishan from CCL to NSL Jurong East bound platform - 2:50
+Transfer at City Hall on same level - 0:10
+Transfer at City Hall on different level - 0:50
+Transfer at Raffles Place on same level - 0:10
+Transfer at Raffles Place on different level - 0:50
+Transfer at Marina Bay from CCL to TEL Gardens By The Bay bound platform - 3:20
+Transfer at Marina Bay from CCL to TEL Woodlands North bound platform - 4:00
+Transfer at Marina Bay from TEL Gardens By The Bay bound platform to CCL  - 3:20
+Transfer at Marina Bay from TEL Woodlands North bound platform to CCL - 4:00
+Transfer at Chinatown from NEL to DTL Bukit Panjang bound platform - 1:40
+Transfer at Chinatown from NEL to DTL Expo bound platform - 1:30
+Transfer at Chinatown from DTL Bukit Panjang bound platform to NEL - 0:50
+Transfer at Chinatown from DTL Expo bound platform to NEL - 0:50
+Transfer at Promenade from DTL Expo bound platform to CCL Harbourfront bound platform - 1:10
+Transfer at Promenade from CCL Harbourfront bound platform to DTL Expo bound platform - 1:10
+Transfer at Promenade from DTL Bukit Panjang bound platform to CCL Harbourfront bound platform - 1:30
+Transfer at Promenade from CCL Harbourfront bound platform to DTL Bukit Panjang bound platform - 1:30
+Transfer at Promenade from DTL Expo bound platform to CCL Dhoby Ghaut bound platform - 1:40
+Transfer at Promenade from CCL Dhoby Ghaut bound platform to DTL Expo bound platform - 1:30
+Transfer at Promenade from DTL Bukit Panjang bound platform to CCL Dhoby Ghaut bound platform - 2:00
+Transfer at Promenade from CCL Dhoby Ghaut bound platform to DTL Bukit Panjang bound platform - 2:00
+Transfer at Macpherson from CCL to DTL Bukit Panjang bound platform - 1:10
+Transfer at Macpherson from DTL Bukit Panjang bound platform to CCL - 0:50
+Transfer at Macpherson from CCL to DTL Expo bound platform - 1:10
+Transfer at Macpherson from DTL Expo bound platform to CCL - 0:50
+Transfer at Bayfront on same level - 0:10
+Transfer at Bayfront on different level - 0:50
+Transfer at Stevens from DTL Bukit Panjang bound platform to TEL - 2:00
+Transfer at Stevens from TEL to DTL Bukit Panjang bound platform - 1:50
+Transfer at Stevens from DTL Expo bound platform to TEL - 1:50
+Transfer at Stevens from TEL to DTL Expo bound platform - 1:40

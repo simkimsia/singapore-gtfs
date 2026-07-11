@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Problem with the travel-time map
+    url: https://github.com/Vorld/singapore-travel-time-map/issues/new/choose
+    about: >-
+      If you got here from traveltime.venugopal.net and something there looks
+      wrong, report it on the map's repo — it gets routed back here if the
+      feed is the cause.

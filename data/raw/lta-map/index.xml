@@ -1,0 +1,1286 @@
+<mrtStationList>
+
+<station id="EW29" name="Joo Koon">
+<code>EW29</code>
+<coordinates>-67.3125,41.1875</coordinates>
+<file>mrt/EWL/EW29.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW28" name="Pioneer">
+<code>EW28</code>
+<coordinates>-72.25,41.1875</coordinates>
+<file>mrt/EWL/EW28.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW27" name="Boon Lay">
+<code>EW27</code>
+<coordinates>-77.25,41.1875</coordinates>
+<file>mrt/EWL/EW27.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW26" name="Lakeside">
+<code>EW26</code>
+<coordinates>-83.4375,46.9375</coordinates>
+<file>mrt/EWL/EW26.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW25" name="Chinese Garden">
+<code>EW25</code>
+<coordinates>-83.4375,53.3125</coordinates>
+<file>mrt/EWL/EW25.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW24-NS1" name="Jurong East">
+<code>EW24-NS1</code>
+<coordinates>-83.4375,60.1875</coordinates>
+<file>mrt/EWL/EW24-NS1.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW23" name="Clementi">
+<code>EW23</code>
+<coordinates>-83.4375,68.5625</coordinates>
+<file>mrt/EWL/EW23.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW22" name="Dover">
+<code>EW22</code>
+<coordinates>-83.5,74.375</coordinates>
+<file>mrt/EWL/EW22.html</file>
+<line>EWL</line>
+</station>
+
+<station id="CC22-EW21" name="Buona Vista">
+<code>CC22-EW21</code>
+<coordinates>-83.375,80.625</coordinates>
+<file>mrt/EWL/CC22-EW21.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW20" name="Commonwealth">
+<code>EW20</code>
+<coordinates>-87.0625,85.875</coordinates>
+<file>mrt/EWL/EW20.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW19" name="Queenstown">
+<code>EW19</code>
+<coordinates>-90.3125,89.25</coordinates>
+<file>mrt/EWL/EW19.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW18" name="Redhill">
+<code>EW18</code>
+<coordinates>-94.25,93.5</coordinates>
+<file>mrt/EWL/EW18.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW17" name="Tiong Bahru">
+<code>EW17</code>
+<coordinates>-98.3125,97.375</coordinates>
+<file>mrt/EWL/EW17.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW16-NE3-TE17" name="Outram Park">
+<code>EW16-NE3-TE17</code>
+<coordinates>-102.168283, 104.6875</coordinates>
+<file>mrt/EWL/EW16-NE3-TE17.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW15" name="Tanjong Pagar">
+<code>EW15</code>
+<coordinates>-110.4375,110</coordinates>
+<file>mrt/EWL/EW15.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW14-NS26" name="Raffles Place">
+<code>EW14-NS26</code>
+<coordinates>-107.8125,126.1875</coordinates>
+<file>mrt/EWL/EW14-NS26.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW13-NS25" name="City Hall">
+<code>EW13-NS25</code>
+<coordinates>-102.3125,126.1875</coordinates>
+<file>mrt/EWL/EW13-NS25.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW12-DT14" name="Bugis">
+<code>EW12-DT14</code>
+<coordinates>-93,135.5</coordinates>
+<file>mrt/EWL/EW12-DT14.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW11" name="Lavender">
+<code>EW11</code>
+<coordinates>-88.5625,139.9375</coordinates>
+<file>mrt/EWL/EW11.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW10" name="Kallang">
+<code>EW10</code>
+<coordinates>-84.5625,143.875</coordinates>
+<file>mrt/EWL/EW10.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW9" name="Aljunied">
+<code>EW9</code>
+<coordinates>-80.6875,147.75</coordinates>
+<file>mrt/EWL/EW9.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW8-CC9" name="Paya Lebar">
+<code>EW8-CC9</code>
+<coordinates>-75.875,152.8125</coordinates>
+<file>mrt/EWL/EW8-CC9.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW7" name="Eunos">
+<code>EW7</code>
+<coordinates>-70.125,158.1875</coordinates>
+<file>mrt/EWL/EW7.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW6" name="Kembangan">
+<code>EW6</code>
+<coordinates>-64.9375,163.4375</coordinates>
+<file>mrt/EWL/EW6.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW5" name="Bedok">
+<code>EW5</code>
+<coordinates>-60.3125,172</coordinates>
+<file>mrt/EWL/EW5.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW4" name="Tanah Merah">
+<code>EW4</code>
+<coordinates>-60.375,183.6875</coordinates>
+<file>mrt/EWL/EW4.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW3" name="Simei">
+<code>EW3</code>
+<coordinates>-57.0625,184.25</coordinates>
+<file>mrt/EWL/EW3.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW2-DT32" name="Tampines">
+<code>EW2-DT32</code>
+<coordinates>-52.5625,185.875</coordinates>
+<file>mrt/EWL/EW2-DT32.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW1" name="Pasir Ris">
+<code>EW1</code>
+<coordinates>-47.0625,184.25</coordinates>
+<file>mrt/EWL/EW1.html</file>
+<line>EWL</line>
+</station>
+
+<station id="CG1-DT35" name="Expo">
+<code>CG1-DT35</code>
+<coordinates>-66.625,192.4375</coordinates>
+<file>mrt/EWL/CG1-DT35.html</file>
+<line>EWL</line>
+</station>
+
+<station id="CG2" name="Changi Airport">
+<code>CG2</code>
+<coordinates>-66.625,198.8125</coordinates>
+<file>mrt/EWL/CG2.html</file>
+<line>EWL</line>
+</station>
+
+<station id="NS2" name="Bukit Batok">
+<code>NS2</code>
+<coordinates>-72.3125,60.1875</coordinates>
+<file>mrt/NSL/NS2.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS3" name="Bukit Gombak">
+<code>NS3</code>
+<coordinates>-63.875,60.1875</coordinates>
+<file>mrt/NSL/NS3.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS4-BP1" name="Choa Chu Kang">
+<code>NS4-BP1</code>
+<coordinates>-54.25,60.1875</coordinates>
+<file>mrt/NSL/NS4-BP1.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS5" name="Yew Tee">
+<code>NS5</code>
+<coordinates>-44.25,60.1875</coordinates>
+<file>mrt/NSL/NS5.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS7" name="Kranji">
+<code>NS7</code>
+<coordinates>-34.75,60.1875</coordinates>
+<file>mrt/NSL/NS7.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS8" name="Marsiling">
+<code>NS8</code>
+<coordinates>-23.9375,65.375</coordinates>
+<file>mrt/NSL/NS8.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS9-TE2" name="Woodlands">
+<code>NS9-TE2</code>
+<coordinates>-21.625,78.25</coordinates>
+<file>mrt/NSL/NS9-TE2.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS10" name="Admiralty">
+<code>NS10</code>
+<coordinates>-21.75,86.4375</coordinates>
+<file>mrt/NSL/NS10.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS11" name="Sembawang">
+<code>NS11</code>
+<coordinates>-21.6875,94.0625</coordinates>
+<file>mrt/NSL/NS11.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS12" name="Canberra">
+<code>NS12</code>
+<coordinates>-21.6875,101.5</coordinates>
+<file>mrt/NSL/NS12.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS13" name="Yishun">
+<code>NS13</code>
+<coordinates>-24.1875,109.3125</coordinates>
+<file>mrt/NSL/NS13.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS14" name="Khatib">
+<code>NS14</code>
+<coordinates>-29,113.375</coordinates>
+<file>mrt/NSL/NS14.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS15" name="Yio Chu Kang">
+<code>NS15</code>
+<coordinates>-34.75,114.375</coordinates>
+<file>mrt/NSL/NS15.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS16" name="Ang Mo Kio">
+<code>NS16</code>
+<coordinates>-40.5625,114.375</coordinates>
+<file>mrt/NSL/NS16.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS17-CC15" name="Bishan">
+<code>NS17-CC15</code>
+<coordinates>-47.125, 114.4375</coordinates>
+<file>mrt/NSL/NS17-CC15.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS18" name="Braddell">
+<code>NS18</code>
+<coordinates>-51.0625,114.4375</coordinates>
+<file>mrt/NSL/NS18.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS19" name="Toa Payoh">
+<code>NS19</code>
+<coordinates>-56.5625, 114.4375</coordinates>
+<file>mrt/NSL/NS19.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS20" name="Novena">
+<code>NS20</code>
+<coordinates>-63, 111.125</coordinates>
+<file>mrt/NSL/NS20.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS21-DT11" name="Newton">
+<code>NS21-DT11</code>
+<coordinates>-67.75, 108.5</coordinates>
+<file>mrt/NSL/NS21-DT11.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS22-TE14" name="Orchard">
+<code>NS22-TE14</code>
+<coordinates>-75.8125, 100.1875</coordinates>
+<file>mrt/NSL/NS22-TE14.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS23" name="Somerset">
+<code>NS23</code>
+<coordinates>-82.0625, 105.8125</coordinates>
+<file>mrt/NSL/NS23.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS24-NE6-CC1" name="Dhoby Ghaut">
+<code>NS24-NE6-CC1</code>
+<coordinates>-89.125, 115.4375</coordinates>
+<file>mrt/NSL/NS24-NE6-CC1.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NS27-CE2-TE20" name="Marina Bay">
+<code>NS27-CE2-TE20</code>
+<coordinates>-116.1875, 129.3125</coordinates>
+<file>mrt/NSL/NS27-CE2-TE20.html</file>
+<line>NSL</line>
+</station>
+
+<station id="NE1-CC29" name="HarbourFront">
+<code>NE1-CC29</code>
+<coordinates>-117, 101.3125</coordinates>
+<file>mrt/NEL/NE1-CC29.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE4-DT19" name="Chinatown">
+<code>NE4-DT19</code>
+<coordinates>-97.625, 109.75</coordinates>
+<file>mrt/NEL/NE4-DT19.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE5" name="Clarke Quay">
+<code>NE5</code>
+<coordinates>-94.375, 112.4375</coordinates>
+<file>mrt/NEL/NE5.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE7-DT12" name="Little India">
+<code>NE7-DT12</code>
+<coordinates>-77.6875, 120.3125</coordinates>
+<file>mrt/NEL/NE7-DT12.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE8" name="Farrer Park">
+<code>NE8</code>
+<coordinates>-72.25, 120.3125</coordinates>
+<file>mrt/NEL/NE8.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE9" name="Boon Keng">
+<code>NE9</code>
+<coordinates>-67, 120.3125</coordinates>
+<file>mrt/NEL/NE9.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE10" name="Potong Pasir">
+<code>NE10</code>
+<coordinates>-61.625, 123.5625</coordinates>
+<file>mrt/NEL/NE10.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE11" name="Woodleigh">
+<code>NE11</code>
+<coordinates>-56.5, 128.3125</coordinates>
+<file>mrt/NEL/NE11.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE12-CC13" name="Serangoon">
+<code>NE12-CC13</code>
+<coordinates>-51.125, 133.9375</coordinates>
+<file>mrt/NEL/NE12-CC13.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE13" name="Kovan">
+<code>NE13</code>
+<coordinates>-46.8125, 138.125</coordinates>
+<file>mrt/NEL/NE13.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE14" name="Hougang">
+<code>NE14</code>
+<coordinates>-43.125, 141.875</coordinates>
+<file>mrt/NEL/NE14.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE15" name="Buangkok">
+<code>NE15</code>
+<coordinates>-39.5, 145.5</coordinates>
+<file>mrt/NEL/NE15.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE16-STC" name="Sengkang">
+<code>NE16-STC</code>
+<coordinates>-35.8125, 149.25</coordinates>
+<file>mrt/NEL/NE16-STC.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE17-PTC" name="Punggol">
+<code>NE17-PTC</code>
+<coordinates>-27.375, 157.1875</coordinates>
+<file>mrt/NEL/NE17-PTC.html</file>
+<line>NEL</line>
+</station>
+
+<station id="NE18" name="Punggol Coast">
+<code>NE18</code>
+<coordinates>-24.112305, 160.5625</coordinates>
+<file>mrt/NEL/NE18.html</file>
+<line>NEL</line>
+</station>
+
+<station id="CC28" name="Telok Blangah">
+<code>CC28</code>
+<coordinates>-112.3125, 94.5625</coordinates>
+<file>mrt/CCL/CC28.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC27" name="Labrador Park">
+<code>CC27</code>
+<coordinates>-108.25, 90</coordinates>
+<file>mrt/CCL/CC27.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC26" name="Pasir Panjang">
+<code>CC26</code>
+<coordinates>-103.75, 86.4375</coordinates>
+<file>mrt/CCL/CC26.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC25" name="Haw Par Villa">
+<code>CC25</code>
+<coordinates>-99.25, 83.9375</coordinates>
+<file>mrt/CCL/CC25.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC24" name="Kent Ridge">
+<code>CC24</code>
+<coordinates>-94.125, 82.125</coordinates>
+<file>mrt/CCL/CC24.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC23" name="one-north">
+<code>CC23</code>
+<coordinates>-88.5, 80.8125</coordinates>
+<file>mrt/CCL/CC23.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC21" name="Holland Village">
+<code>CC21</code>
+<coordinates>-75.5, 81.4375</coordinates>
+<file>mrt/CCL/CC21.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC20" name="Farrer Road">
+<code>CC20</code>
+<coordinates>-69.4375, 83.5</coordinates>
+<file>mrt/CCL/CC20.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC19-DT9" name="Botanic Gardens">
+<code>CC19-DT9</code>
+<coordinates>-62.1875, 87.5625</coordinates>
+<file>mrt/CCL/CC19-DT9.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC17-TE9" name="Caldecott">
+<code>CC17-TE9</code>
+<coordinates>-52.1875, 98.8125</coordinates>
+<file>mrt/CCL/CC17-TE9.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC16" name="Marymount">
+<code>CC16</code>
+<coordinates>-49, 105.1875</coordinates>
+<file>mrt/CCL/CC16.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC14" name="Lorong Chuan">
+<code>CC14</code>
+<coordinates>-47.9375, 125.187</coordinates>
+<file>mrt/CCL/CC14.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC12" name="Bartley">
+<code>CC12</code>
+<coordinates>-56.3125, 141.3125</coordinates>
+<file>mrt/CCL/CC12.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC11" name="Tai Seng">
+<code>CC11</code>
+<coordinates>-61.4375, 146.3125</coordinates>
+<file>mrt/CCL/CC11.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC10-DT26" name="MacPherson">
+<code>CC10-DT26</code>
+<coordinates>-67.6875, 150.125</coordinates>
+<file>mrt/CCL/CC10-DT26.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC8" name="Dakota">
+<code>CC8</code>
+<coordinates>-82.6875, 153.5625</coordinates>
+<file>mrt/CCL/CC8.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC7" name="Mountbatten">
+<code>CC7</code>
+<coordinates>-88.25, 153.1875</coordinates>
+<file>mrt/CCL/CC7.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC6" name="Stadium">
+<code>CC6</code>
+<coordinates>-94.0625, 151.9375</coordinates>
+<file>mrt/CCL/CC6.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC5" name="Nicoll Highway">
+<code>CC5</code>
+<coordinates>-99.4375, 150</coordinates>
+<file>mrt/CCL/CC5.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC4-DT15" name="Promenade">
+<code>CC4-DT15</code>
+<coordinates>-105.1875, 145.625</coordinates>
+<file>mrt/CCL/CC4-DT15.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC3" name="Esplanade">
+<code>CC3</code>
+<coordinates>-102.375, 134.9375</coordinates>
+<file>mrt/CCL/CC3.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CC2" name="Bras Basah">
+<code>CC2</code>
+<coordinates>-94.3125, 127.0625</coordinates>
+<file>mrt/CCL/CC2.html</file>
+<line>CCL</line>
+</station>
+
+<station id="CE1-DT16" name="Bayfront">
+<code>CE1-DT16</code>
+<coordinates>-112.1875, 138.1875</coordinates>
+<file>mrt/CCL/CE1-DT16.html</file>
+<line>CCL</line>
+</station>
+
+<station id="DT17" name="Downtown">
+<code>DT17</code>
+<coordinates>-114, 131.3125</coordinates>
+<file>mrt/DTL/DT17.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT18" name="Telok Ayer">
+<code>DT18</code>
+<coordinates>-107.9375, 120.9375</coordinates>
+<file>mrt/DTL/DT18.html</file>
+<line>DTL</line>
+</station>
+
+<station id="BP2" name="South View">
+<code>BP2</code>
+<coordinates>-50.3125, 62.9375</coordinates>
+<file>mrt/BPL/BP2.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP3" name="Keat Hong">
+<code>BP3</code>
+<coordinates>-46.1875, 62.875</coordinates>
+<file>mrt/BPL/BP3.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP4" name="Teck Whye">
+<code>BP4</code>
+<coordinates>-42.25, 62.875</coordinates>
+<file>mrt/BPL/BP4.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP5" name="Phoenix">
+<code>BP5</code>
+<coordinates>-38.0625, 67.125</coordinates>
+<file>mrt/BPL/BP5.html</file>
+<line>BPL</line>
+</station>
+
+<station id="DT1-BP6" name="Bukit Panjang">
+<code>DT1-BP6</code>
+<coordinates>-39.25, 72.8125</coordinates>
+<file>mrt/BPL/DT1-BP6.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP7" name="Petir">
+<code>BP7</code>
+<coordinates>-33.75, 74.7</coordinates>
+<file>mrt/BPL/BP7.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP8" name="Pending">
+<code>BP8</code>
+<coordinates>-31.0625, 75.4375</coordinates>
+<file>mrt/BPL/BP8.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP9" name="Bangkit">
+<code>BP9</code>
+<coordinates>-28.375, 75.4375</coordinates>
+<file>mrt/BPL/BP9.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP10" name="Fajar">
+<code>BP10</code>
+<coordinates>-25.8125, 72.8125</coordinates>
+<file>mrt/BPL/BP10.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP11" name="Segar">
+<code>BP11</code>
+<coordinates>-28.3125, 70.3125</coordinates>
+<file>mrt/BPL/BP11.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP12" name="Jelapang">
+<code>BP12</code>
+<coordinates>-31.0625, 70.3125</coordinates>
+<file>mrt/BPL/BP12.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP13" name="Senja">
+<code>BP13</code>
+<coordinates>-33.8125, 70.6875</coordinates>
+<file>mrt/BPL/BP13.html</file>
+<line>BPL</line>
+</station>
+
+<station id="BP14" name="Ten Mile Junction">
+<code>BP14</code>
+<coordinates></coordinates>
+<file>mrt/BPL/BP14.html</file>
+<line>BPL</line>
+</station>
+
+<station id="SW1" name="Cheng Lim">
+<code>SW1</code>
+<coordinates>-29.625, 146.8125</coordinates>
+<file>mrt/STL/SW1.html</file>
+<line>STL</line>
+</station>
+
+<station id="SW2" name="Farmway">
+<code>SW2</code>
+<coordinates>-27.625, 144.9375</coordinates>
+<file>mrt/STL/SW2.html</file>
+<line>STL</line>
+</station>
+
+<station id="SW3" name="Kupang">
+<code>SW3</code>
+<coordinates>-25.75, 143</coordinates>
+<file>mrt/STL/SW3.html</file>
+<line>STL</line>
+</station>
+
+<station id="SW4" name="Thanggam">
+<code>SW4</code>
+<coordinates>-25.3125, 140.1875</coordinates>
+<file>mrt/STL/SW4.html</file>
+<line>STL</line>
+</station>
+
+<station id="SW5" name="Fernvale">
+<code>SW5</code>
+<coordinates>-27, 138.375</coordinates>
+<file>mrt/STL/SW5.html</file>
+<line>STL</line>
+</station>
+
+<station id="SW6" name="Layar">
+<code>SW6</code>
+<coordinates>-29.3125, 139.375</coordinates>
+<file>mrt/STL/SW6.html</file>
+<line>STL</line>
+</station>
+
+<station id="SW7" name="Tongkang">
+<code>SW7</code>
+<coordinates>-31.1875, 141.375</coordinates>
+<file>mrt/STL/SW7.html</file>
+<line>STL</line>
+</station>
+
+<station id="SW8" name="Renjong">
+<code>SW8</code>
+<coordinates>-33, 143.25</coordinates>
+<file>mrt/STL/SW8.html</file>
+<line>STL</line>
+</station>
+
+<station id="SE1" name="Compassvale">
+<code>SE1</code>
+<coordinates>-39.875, 157.0625</coordinates>
+<file>mrt/STL/SE1.html</file>
+<line>STL</line>
+</station>
+
+<station id="SE2" name="Rumbia">
+<code>SE2</code>
+<coordinates>-42, 159.25</coordinates>
+<file>mrt/STL/SE2.html</file>
+<line>STL</line>
+</station>
+
+<station id="SE3" name="Bakau">
+<code>SE3</code>
+<coordinates>-45.875, 159.25</coordinates>
+<file>mrt/STL/SE3.html</file>
+<line>STL</line>
+</station>
+
+<station id="SE4" name="Kangkar">
+<code>SE4</code>
+<coordinates>-45.375,155.5</coordinates>
+<file>mrt/STL/SE4.html</file>
+<line>STL</line>
+</station>
+
+<station id="SE5" name="Ranggung">
+<code>SE5</code>
+<coordinates>-42.9375,152.9375</coordinates>
+<file>mrt/STL/SE5.html</file>
+<line>STL</line>
+</station>
+
+<station id="PE1" name="Cove">
+<code>PE1</code>
+<coordinates>-32.0625,161</coordinates>
+<file>mrt/PTL/PE1.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PE2" name="Meridian">
+<code>PE2</code>
+<coordinates>-34.8125,163</coordinates>
+<file>mrt/PTL/PE2.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PE3" name="Coral Edge">
+<code>PE3</code>
+<coordinates>-36.75,164.8125</coordinates>
+<file>mrt/PTL/PE3.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PE4" name="Riviera">
+<code>PE4</code>
+<coordinates>-36.8125,168.5</coordinates>
+<file>mrt/PTL/PE4.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PE5" name="Kadaloor">
+<code>PE5</code>
+<coordinates>-33.5625,169</coordinates>
+<file>mrt/PTL/PE5.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PE6" name="Oasis">
+<code>PE6</code>
+<coordinates>-31.4375,166.9375</coordinates>
+<file>mrt/PTL/PE6.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PE7" name="Damai">
+<code>PE7</code>
+<coordinates>-29.5,164.5625</coordinates>
+<file>mrt/PTL/PE7.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PW1" name="Sam Kee">
+<code>PW1</code>
+<coordinates>-20.815859,155.8125</coordinates>
+<file>mrt/PTL/PW1.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PW2" name="Teck Lee">
+<code>PW2</code>
+<coordinates>-18.690859,153.75</coordinates>
+<file>mrt/PTL/PW2.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PW3" name="Punggol Point">
+<code>PW3</code>
+<coordinates>-16.750859,151.75</coordinates>
+<file>mrt/PTL/PW3.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PW4" name="Samudera">
+<code>PW4</code>
+<coordinates>-16.875,148.375</coordinates>
+<file>mrt/PTL/PW4.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PW5" name="Nibong">
+<code>PW5</code>
+<coordinates>-20.0625,148.125</coordinates>
+<file>mrt/PTL/PW5.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PW6" name="Sumang">
+<code>PW6</code>
+<coordinates>-21.8125,149.9375</coordinates>
+<file>mrt/PTL/PW6.html</file>
+<line>PTL</line>
+</station>
+
+<station id="PW7" name="Soo Teck">
+<code>PW7</code>
+<coordinates>-23.625,152.0625</coordinates>
+<file>mrt/PTL/PW7.html</file>
+<line>PTL</line>
+</station>
+
+<station id="NS28" name="Marina South Pier">
+<code>NS28</code>
+<coordinates>-121.125,132.5625</coordinates>
+<file>mrt/NSL/NS28.html</file>
+<line>NSL</line>
+</station>
+
+<station id="DT13" name="Rochor">
+<code>DT13</code>
+<coordinates>-83,125.625</coordinates>
+<file>mrt/DTL/DT13.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT10-TE11" name="Stevens">
+<code>DT10-TE11</code>
+<coordinates>-62.1875,98.6875</coordinates>
+<file>mrt/DTL/DT10-TE11.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT8" name="Tan Kah Kee">
+<code>DT8</code>
+<coordinates>-62.25,78.625</coordinates>
+<file>mrt/DTL/DT8.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT7" name="Sixth Avenue">
+<code>DT7</code>
+<coordinates>-57.9375,72.9375</coordinates>
+<file>mrt/DTL/DT7.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT6" name="King Albert Park">
+<code>DT6</code>
+<coordinates>-55.237305,72.875</coordinates>
+<file>mrt/DTL/DT6.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT5" name="Beauty World">
+<code>DT5</code>
+<coordinates>-52.149805,72.875</coordinates>
+<file>mrt/DTL/DT5.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT4" name="Hume">
+<code>DT4</code>
+<coordinates>-49.397806,72.875</coordinates>
+<file>mrt/DTL/DT4.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT3" name="Hillview">
+<code>DT3</code>
+<coordinates>-46.63,72.875</coordinates>
+<file>mrt/DTL/DT3.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT2" name="Cashew">
+<code>DT2</code>
+<coordinates>-43.85,72.875</coordinates>
+<file>mrt/DTL/DT2.html</file>
+<line>DTL</line>
+</station>
+
+<station id="EW30" name="Gul Circle">
+<code>EW30</code>
+<coordinates>-62.3125,41.1875</coordinates>
+<file>mrt/EWL/EW30.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW31" name="Tuas Crescent">
+<code>EW31</code>
+<coordinates>-57.3125,41.1875</coordinates>
+<file>mrt/EWL/EW31.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW32" name="Tuas West Road">
+<code>EW32</code>
+<coordinates>-52.3125,41.1875</coordinates>
+<file>mrt/EWL/EW32.html</file>
+<line>EWL</line>
+</station>
+
+<station id="EW33" name="Tuas Link">
+<code>EW33</code>
+<coordinates>-47.25,41.1875</coordinates>
+<file>mrt/EWL/EW33.html</file>
+<line>EWL</line>
+</station>
+
+<station id="DT31" name="Tampines West">
+<code>DT31</code>
+<coordinates>-53.6875,177.8125</coordinates>
+<file>mrt/DTL/DT31.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT30" name="Bedok Reservoir">
+<code>DT30</code>
+<coordinates>-53.625,170.5625</coordinates>
+<file>mrt/DTL/DT30.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT29" name="Bedok North">
+<code>DT29</code>
+<coordinates>-55.0625,163.25</coordinates>
+<file>mrt/DTL/DT29.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT28" name="Kaki Bukit">
+<code>DT28</code>
+<coordinates>-59,159</coordinates>
+<file>mrt/DTL/DT28.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT27" name="Ubi">
+<code>DT27</code>
+<coordinates>-63.375,154.8125</coordinates>
+<file>mrt/DTL/DT27.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT25" name="Mattar">
+<code>DT25</code>
+<coordinates>-71.75,146.375</coordinates>
+<file>mrt/DTL/DT25.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT24" name="Geylang Bahru">
+<code>DT24</code>
+<coordinates>-75.8125,142.375</coordinates>
+<file>mrt/DTL/DT24.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT23" name="Bendemeer">
+<code>DT23</code>
+<coordinates>-79.8125,138.625</coordinates>
+<file>mrt/DTL/DT23.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT22" name="Jalan Besar">
+<code>DT22</code>
+<coordinates>-85.5,132.9375</coordinates>
+<file>mrt/DTL/DT22.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT21" name="Bencoolen">
+<code>DT21</code>
+<coordinates>-89.9375,128.625</coordinates>
+<file>mrt/DTL/DT21.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT20" name="Fort Canning">
+<code>DT20</code>
+<coordinates>-91.5625,109.375</coordinates>
+<file>mrt/DTL/DT20.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT33" name="Tampines East">
+<code>DT33</code>
+<coordinates>-57.125,192.375</coordinates>
+<file>mrt/DTL/DT33.html</file>
+<line>DTL</line>
+</station>
+
+<station id="DT34" name="Upper Changi">
+<code>DT34</code>
+<coordinates>-61,192.4375</coordinates>
+<file>mrt/DTL/DT34.html</file>
+<line>DTL</line>
+</station>
+
+<!--
+<station id="DT36" name="Xilin">
+<code>DT36</code>
+<coordinates>-71.5,191.625</coordinates>
+<file>mrt/DTL/DT36.html</file>
+<line>DTL</line>
+</station>
+-->
+
+<station id="TE1" name="Woodlands North">
+<code>TE1</code>
+<coordinates>-16,73</coordinates>
+<file>mrt/TEL/TE1.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE3" name="Woodlands South">
+<code>TE3</code>
+<coordinates>-25.3125,81.8125</coordinates>
+<file>mrt/TEL/TE3.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE4" name="Springleaf">
+<code>TE4</code>
+<coordinates>-28.9,85.2</coordinates>
+<file>mrt/TEL/TE4.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE5" name="Lentor">
+<code>TE5</code>
+<coordinates>-32.65,88.65</coordinates>
+<file>mrt/TEL/TE5.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE6" name="Mayflower">
+<code>TE6</code>
+<coordinates>-36.2,92.01</coordinates>
+<file>mrt/TEL/TE6.html</file>
+<line>TEL</line>
+</station>
+
+ <station id="TE7" name="Bright Hill">
+<code>TE7</code>
+<coordinates>-39.8,95.5</coordinates>
+<file>mrt/TEL/TE7.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE8" name="Upper Thomson">
+<code>TE8</code>
+<coordinates>-46.2125,98.75</coordinates>
+<file>mrt/TEL/TE8.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE12" name="Napier">
+<code>TE12</code>
+<coordinates>-66.999,98.6875</coordinates>
+<file>mrt/TEL/TE12.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE13" name="Orchard Boulevard">
+<code>TE13</code>
+<coordinates>-71.483,98.6875</coordinates>
+<file>mrt/TEL/TE13.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE15" name="Great World">
+<code>TE15</code>
+<coordinates>-81.191269, 98.767409</coordinates>
+<file>mrt/TEL/TE15.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE16" name="Havelock">
+<code>TE16</code>
+<coordinates>-86.402674, 98.735</coordinates>
+<file>mrt/TEL/TE16.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE18" name="Maxwell">
+<code>TE18</code>
+<coordinates>-105.273512, 111.0625</coordinates>
+<file>mrt/TEL/TE18.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE19" name="Shenton Way">
+<code>TE19</code>
+<coordinates>-113.71886, 119.65</coordinates>
+<file>mrt/TEL/TE19.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE22" name="Gardens by the Bay">
+<code>TE22</code>
+<coordinates>-111.719357, 151.513103</coordinates>
+<file>mrt/TEL/TE22.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE23" name="Tanjong Rhu">
+<code>TE23</code>
+<coordinates>-102.799805, 160.375</coordinates>
+<file>mrt/TEL/TE23.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE24" name="Katong Park">
+<code>TE24</code>
+<coordinates>-99.387206, 163.893847</coordinates>
+<file>mrt/TEL/TE24.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE25" name="Tanjong Katong">
+<code>TE25</code>
+<coordinates>-95.883537, 167.332633</coordinates>
+<file>mrt/TEL/TE25.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE26" name="Marine Parade">
+<code>TE26</code>
+<coordinates>-92.379868, 170.901185</coordinates>
+<file>mrt/TEL/TE26.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE27" name="Marine Terrace">
+<code>TE27</code>
+<coordinates>-88.941082, 174.404854</coordinates>
+<file>mrt/TEL/TE27.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE28" name="Siglap">
+<code>TE28</code>
+<coordinates>-85.424805, 177.75</coordinates>
+<file>mrt/TEL/TE28.html</file>
+<line>TEL</line>
+</station>
+
+<station id="TE29" name="Bayshore">
+<code>TE29</code>
+<coordinates>-82.362305, 180.9375</coordinates>
+<file>mrt/TEL/TE29.html</file>
+<line>TEL</line>
+</station>
+
+</mrtStationList>
